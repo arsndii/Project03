@@ -9,5 +9,7 @@ package project03;
  * @author warik
  */
 public class Sepeda {
-    
+    String nerk;
+    String warna;
+    double harga;
 }
