@@ -8,6 +8,10 @@ package project03;
  *
  * @author warik
  */
-public class SepedaMotor {
+public class SepedaMotor extends Sepeda{
+    private String jenisMotor;
     
+    void throttle(){
+        System.out.println("NGEEEENG.....");
+    }
 }
